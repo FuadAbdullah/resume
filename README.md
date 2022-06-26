@@ -1,1 +1,4 @@
-![Resume in PNG format](./Resume-asOf24062022-Fixes.png)
+# My Resume
+## Below is a snapshot of my latest resume (as of 26/06/2022)
+
+![Resume in PNG format](./Files/PNG/Resume-asOf24062022-Fixes.png)
